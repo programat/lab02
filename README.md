@@ -1,1 +1,1 @@
-# lab02 for universuty education work
+# lab02 for studying linux and github
